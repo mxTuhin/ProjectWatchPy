@@ -1,0 +1,1 @@
+Simple Stopwatch app with Python. UI included. Made to Manage Time
